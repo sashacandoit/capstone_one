@@ -18,13 +18,13 @@ The [Colormind API](http://colormind.io/api-access/) Can generate a brand's colo
 
 #### Database Schema
 
-![]()
+![](Capstone_1_schema_v1.png)
 
 ------
 
 #### User Flow
 
-![]()
+![](userflow_brand-guidelines-generator_v1.png)
 
 
 
